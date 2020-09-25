@@ -1,0 +1,4 @@
+10 - completed
+11 - upload component change
+12 - vuetify-image-input 
+15 - completed(X)
